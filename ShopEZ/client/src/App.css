@@ -1,0 +1,22 @@
+/* Custom Styles for ShopEZ */
+
+.hero-section {
+  min-height: 70vh;
+}
+
+.category-card {
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.category-card:hover {
+  transform: translateY(-5px);
+}
+
+.product-card {
+  transition: 0.3s;
+}
+
+.product-card:hover {
+  transform: translateY(-5px);
+}
